@@ -1,0 +1,1040 @@
+Handle name: security
+URL: https://hackerone.com
+
+Handle name: security
+URL: https://api.hackerone.com
+
+Handle name: security
+URL: https://www.hackerone.com
+
+Handle name: security
+URL: https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
+
+Handle name: security
+URL: https://app.pullrequest.com
+
+Handle name: security
+URL: https://reviewer.pullrequest.com
+
+Handle name: security
+URL: app.pullrequest.com
+
+Handle name: security
+URL: reviewer.pullrequest.com
+
+Handle name: security
+URL: ctf.hacker101.com
+
+Handle name: security
+URL: hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+
+Handle name: security
+URL: a5s.hackerone-ext-content.com
+
+Handle name: security
+URL: b5s.hackerone-ext-content.com
+
+Handle name: security
+URL: hackerone-ext-content.com
+
+Handle name: security
+URL: hackathon-photos.hackerone-user-content.com
+
+Handle name: security
+URL: cover-photos.hackerone-user-content.com
+
+Handle name: security
+URL: hackathon-photos-us-east-2.hackerone-user-content.com
+
+Handle name: security
+URL: profile-photos.hackerone-user-content.com
+
+Handle name: security
+URL: hackerone-user-content.com
+
+Handle name: security
+URL: profile-photos-us-east-2.hackerone-user-content.com
+
+Handle name: security
+URL: cover-photos-us-east-2.hackerone-user-content.com
+
+Handle name: security
+URL: https://errors.hackerone.net
+
+Handle name: security
+URL: https://*.hackerone-ext-content.com
+
+Handle name: security
+URL: https://*.hackerone-user-content.com/
+
+Handle name: security
+URL: https://ctf.hacker101.com
+
+Handle name: security
+URL: https://support.hackerone.com
+
+Handle name: security
+URL: https://go.hacker.one
+
+Handle name: security
+URL: https://www.hackeronestatus.com/
+
+Handle name: security
+URL: https://info.hacker.one/
+
+Handle name: security
+URL: https://ma.hacker.one
+
+Handle name: security
+URL: www.hackeronestatus.com
+
+Handle name: security
+URL: go.hacker.one
+
+Handle name: security
+URL: info.hacker.one
+
+Handle name: security
+URL: ma.hacker.one
+
+Handle name: security
+URL: app.qualified.dev
+
+Handle name: security
+URL: qualified.dev
+
+Handle name: yahoo
+URL: data.mail.yahoo.com
+
+Handle name: yahoo
+URL: le.yahooapis.com
+
+Handle name: yahoo
+URL: onepush.query.yahoo.com
+
+Handle name: yahoo
+URL: proddata.xobni.yahoo.com
+
+Handle name: yahoo
+URL: apis.mail.yahoo.com
+
+Handle name: yahoo
+URL: yimg.com
+
+Handle name: yahoo
+URL: *.yahoo.net
+
+Handle name: yahoo
+URL: *.yahoo.com.tw
+
+Handle name: rails
+URL: *.rubyonrails.org
+
+Handle name: cloudflare
+URL: dash.cloudflare.com
+
+Handle name: cloudflare
+URL: cloudflare.com/apps/
+
+Handle name: cloudflare
+URL: cloudflareworkers.com
+
+Handle name: cloudflare
+URL: *.teams.cloudflare.com
+
+Handle name: cloudflare
+URL: api.cloudflare.com
+
+Handle name: cloudflare
+URL: *.cloudflare.com
+
+Handle name: cloudflare
+URL: github.com/cloudflare
+
+Handle name: cloudflare
+URL: support.cloudflare.com
+
+Handle name: wordpress
+URL: *.wordpress.org
+
+Handle name: wordpress
+URL: api.wordpress.org
+
+Handle name: wordpress
+URL: *.buddypress.org,bbpress.org,profiles.wordpress.org
+
+Handle name: wordpress
+URL: *.wordcamp.org
+
+Handle name: wordpress
+URL: planet.wordpress.org
+
+Handle name: wordpress
+URL: doaction.org
+
+Handle name: wordpress
+URL: codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+
+Handle name: wordpress
+URL: mercantile.wordpress.org
+
+Handle name: wordpress
+URL: lists.wordpress.org
+
+Handle name: wordpress
+URL: wordpressfoundation.org
+
+Handle name: wordpress
+URL: irclogs.wordpress.org
+
+Handle name: wordpress
+URL: *.wordpress.net
+
+Handle name: wordpress
+URL: munin-*.wordpress.org
+
+Handle name: wordpress
+URL: gutenberg.run
+
+Handle name: wordpress
+URL: *.wordpress.com
+
+Handle name: wordpress
+URL: status.wordpress.org,glotpress.blog,wordpress.tv
+
+Handle name: vimeo
+URL: www.vimeo.com
+
+Handle name: vimeo
+URL: player.vimeo.com
+
+Handle name: vimeo
+URL: api.vimeo.com
+
+Handle name: vimeo
+URL: *.cloud.vimeo.com
+
+Handle name: vimeo
+URL: vimeopro.com
+
+Handle name: vimeo
+URL: vimeo.com/ondemand
+
+Handle name: vimeo
+URL: vimeo.com/api
+
+Handle name: vimeo
+URL: *.vimeo.com
+
+Handle name: vimeo
+URL: checkout.vimeo.com
+
+Handle name: vimeo
+URL: vimeo.com/create
+
+Handle name: vimeo
+URL: vimeo.magisto.com
+
+Handle name: vimeo
+URL: *.email.vimeo.com
+
+Handle name: vimeo
+URL: vimeo.atlassian.net
+
+Handle name: vimeo
+URL: *.wirewax.com
+
+Handle name: vimeo
+URL: *.wirewax.app
+
+Handle name: vimeo
+URL: *.wibbitz.com
+
+Handle name: linkedin
+URL: www.linkedin.com
+
+Handle name: linkedin
+URL: api.linkedin.com
+
+Handle name: priceline
+URL: www.priceline.com
+
+Handle name: priceline
+URL: secure.rezserver.com
+
+Handle name: priceline
+URL: reservations.rezserver.com
+
+Handle name: priceline
+URL: cruises.priceline.com
+
+Handle name: priceline
+URL: api.rezserver.com
+
+Handle name: priceline
+URL: admin.rezserver.com
+
+Handle name: priceline
+URL: www.bookingholdings.com
+
+Handle name: priceline
+URL: www.airportrentalcars.com
+
+Handle name: twitter
+URL: *.twitter.com
+
+Handle name: twitter
+URL: *.vine.co
+
+Handle name: twitter
+URL: *.periscope.tv
+
+Handle name: twitter
+URL: *.pscp.tv
+
+Handle name: twitter
+URL: *.twimg.com
+
+Handle name: twitter
+URL: gnip.com
+
+Handle name: twitter
+URL: niche.co
+
+Handle name: twitter
+URL: snappytv.com
+
+Handle name: twitter
+URL: twitterflightschool.com
+
+Handle name: twitter
+URL: status.twitter.com
+
+Handle name: basecamp
+URL: 3.basecamp.com
+
+Handle name: basecamp
+URL: launchpad.37signals.com
+
+Handle name: basecamp
+URL: *.hey.com
+
+Handle name: basecamp
+URL: world.hey.com
+
+Handle name: basecamp
+URL: *.basecamphq.com
+
+Handle name: basecamp
+URL: basecamp.com
+
+Handle name: basecamp
+URL: *.highrisehq.com
+
+Handle name: slack
+URL: slack.com
+
+Handle name: slack
+URL: api.slack.com
+
+Handle name: slack
+URL: status.slack.com
+
+Handle name: slack
+URL: slackb.com
+
+Handle name: slack
+URL: app.slack.com
+
+Handle name: slack
+URL: edgeapi.slack.com
+
+Handle name: slack
+URL: slackatwork.com
+
+Handle name: slack
+URL: slack-redir.net
+
+Handle name: slack
+URL: slack-imgs.com
+
+Handle name: slack
+URL: spaces.pm
+
+Handle name: slack
+URL: slackhq.com
+
+Handle name: tinder
+URL: *.tinder.com
+
+Handle name: tinder
+URL: *.gotinder.com
+
+Handle name: tinder
+URL: *.tinderops.net
+
+Handle name: tinder
+URL: *.tstaging.com
+
+Handle name: tinder
+URL: *.tstaging.tools
+
+Handle name: tinder
+URL: *.tinderwebstaging.com
+
+Handle name: tinder
+URL: go.tinder.com
+
+Handle name: tinder
+URL: www.help.tinder.com
+
+Handle name: tinder
+URL: gotinder.imgix.net
+
+Handle name: tinder
+URL: console.gotinder.com
+
+Handle name: coinbase
+URL: coinbase.com
+
+Handle name: coinbase
+URL: *.cbhq.net
+
+Handle name: coinbase
+URL: pro.coinbase.com
+
+Handle name: coinbase
+URL: custody.coinbase.com
+
+Handle name: coinbase
+URL: commerce.coinbase.com
+
+Handle name: coinbase
+URL: prime.coinbase.com
+
+Handle name: coinbase
+URL: paradex.io
+
+Handle name: coinbase
+URL: institutional.coinbase.com
+
+Handle name: coinbase
+URL: api.coinbase.com
+
+Handle name: coinbase
+URL: api.custody.coinbase.com
+
+Handle name: coinbase
+URL: support.coinbase.com
+
+Handle name: coinbase
+URL: blog.coinbase.com
+
+Handle name: coinbase
+URL: engineering.coinbase.com
+
+Handle name: coinbase
+URL: developers.coinbase.com
+
+Handle name: coinbase
+URL: status.coinbase.com
+
+Handle name: coinbase
+URL: https://support.pro.coinbase.com/
+
+Handle name: coinbase
+URL: *.blockspring.com
+
+Handle name: automattic
+URL: api.tumblr.com
+
+Handle name: automattic
+URL: safe.tumblr.com
+
+Handle name: automattic
+URL: secure.tumblr.com
+
+Handle name: automattic
+URL: assets.tumblr.com
+
+Handle name: automattic
+URL: embed.tumblr.com
+
+Handle name: automattic
+URL: *.tumblr.com
+
+Handle name: automattic
+URL: www.tumblr.com
+
+Handle name: automattic
+URL: t.umblr.com
+
+Handle name: automattic
+URL: *.srvcs.tumblr.com
+
+Handle name: automattic
+URL: wordpress.com
+
+Handle name: automattic
+URL: akismet.com
+
+Handle name: automattic
+URL: mailpoet.com
+
+Handle name: automattic
+URL: my.pressable.com
+
+Handle name: automattic
+URL: simplenote.com
+
+Handle name: automattic
+URL: simperium.com
+
+Handle name: automattic
+URL: intensedebate.com
+
+Handle name: automattic
+URL: happy.tools
+
+Handle name: automattic
+URL: scrollkit.com,*.scrollkit.com
+
+Handle name: automattic
+URL: learnboost.com,*.learnboost.com
+
+Handle name: automattic
+URL: *.txmblr.com
+
+Handle name: automattic
+URL: afterthedeadline.com,*.afterthedeadline.com
+
+Handle name: automattic
+URL: polishmywriting.com,*.polishmywriting.com
+
+Handle name: automattic
+URL: *.survey.fm
+
+Handle name: automattic
+URL: *.poll.fm
+
+Handle name: automattic
+URL: atavist.com
+
+Handle name: automattic
+URL: try.pressable.com
+
+Handle name: att
+URL: https://prod-taxexempt.att.com
+
+Handle name: att
+URL: https://projectone.att.com
+
+Handle name: att
+URL: https://c2m-projectone.att.com/
+
+Handle name: att
+URL: https://wf-projectone.att.com
+
+Handle name: att
+URL: *.sky.com.mx
+
+Handle name: att
+URL: https://accbusinesspricing.att.com
+
+Handle name: att
+URL: https://rcloud.social
+
+Handle name: att
+URL: https://attdashboard.wireless.att.com
+
+Handle name: att
+URL: https://clec.att.com/clec/
+
+Handle name: att
+URL: attsuppliers.com
+
+Handle name: att
+URL: attpurchasing.com
+
+Handle name: att
+URL: authkeysmx01.att.com.mx
+
+Handle name: irccloud
+URL: www.irccloud.com
+
+Handle name: irccloud
+URL: api.irccloud.com
+
+Handle name: irccloud
+URL: *.irccloud-cdn.com
+
+Handle name: irccloud
+URL: *.irccloud.com
+
+Handle name: irccloud
+URL: irccloud.com
+
+Handle name: irccloud
+URL: irc.irccloud.com
+
+Handle name: irccloud
+URL: team-irc.irccloud.com
+
+Handle name: irccloud
+URL: blog.irccloud.com
+
+Handle name: iandunn-projects
+URL: iandunn.name
+
+Handle name: bitso
+URL: bitso.com
+
+Handle name: bitso
+URL: api.bitso.com
+
+Handle name: bitso
+URL: bitso.com/alpha
+
+Handle name: bitso
+URL: nvio.mx
+
+Handle name: bitso
+URL: nvio.ar
+
+Handle name: bitso
+URL: help.bitso.com
+
+Handle name: bitso
+URL: status.bitso.com
+
+Handle name: bitso
+URL: dev.bitso.com
+
+Handle name: bitso
+URL: blog.bitso.com
+
+Handle name: bitso
+URL: devmalta.bitso.com
+
+Handle name: bitso
+URL: edu.bitso.com
+
+Handle name: bitso
+URL: stage.bitso.com
+
+Handle name: bitso
+URL: landing.bitso.com
+
+Handle name: bitso
+URL: sandbox.bitso.com
+
+Handle name: bitso
+URL: api-dev.bitso.com
+
+Handle name: bitso
+URL: api-stage.bitso.com
+
+Handle name: bitso
+URL: api-sandbox.bitso.com
+
+Handle name: bitso
+URL: stagemalta.bitso.com
+
+Handle name: bitso
+URL: dev.nvio.mx
+
+Handle name: bitso
+URL: stage.nvio.mx
+
+Handle name: bitso
+URL: sandbox.nvio.mx
+
+Handle name: bitso
+URL: dev.nvio.ar
+
+Handle name: bitso
+URL: stage.nvio.ar
+
+Handle name: bitso
+URL: sandbox.nvio.ar
+
+Handle name: glassdoor
+URL: http://www.glassdoor.com/
+
+Handle name: glassdoor
+URL: http://api.glassdoor.com
+
+Handle name: glassdoor
+URL: https://help.glassdoor.com/
+
+Handle name: zendesk
+URL: www.zendesk.com
+
+Handle name: zendesk
+URL: developer.zendesk.com
+
+Handle name: zendesk
+URL: h1-your-domain.zendesk.com
+
+Handle name: zendesk
+URL: apps.zendesk.com
+
+Handle name: zendesk
+URL: app.smooch.io
+
+Handle name: zendesk
+URL: api.smooch.io
+
+Handle name: zendesk
+URL: smooch.io
+
+Handle name: zendesk
+URL: zopim.com
+
+Handle name: zendesk
+URL: app.futuresimple.com
+
+Handle name: zendesk
+URL: api.getbase.com
+
+Handle name: zendesk
+URL: h1-your-domain.zendesk.com/sell
+
+Handle name: urbandictionary
+URL: *.urbandictionary.com
+
+Handle name: urbandictionary
+URL: *.urbandictionary.net
+
+Handle name: urbandictionary
+URL: *.urbandictionary.biz
+
+Handle name: urbandictionary
+URL: urbandictionary.github.io
+
+Handle name: urbandictionary
+URL: av.urbandictionary.biz
+
+Handle name: urbandictionary
+URL: *.urbandictionary.org
+
+Handle name: urbandictionary
+URL: *.ud.wtf
+
+Handle name: urbandictionary
+URL: *.udimg.com
+
+Handle name: urbandictionary
+URL: *.urbandictionary.blog
+
+Handle name: urbandictionary
+URL: *.urbanup.com
+
+Handle name: urbandictionary
+URL: help.urbandictionary.com
+
+Handle name: urbandictionary
+URL: *.urbandictionary.store
+
+Handle name: harvest
+URL: harvestapp.com
+
+Handle name: harvest
+URL: forecastapp.com
+
+Handle name: harvest
+URL: id.getharvest.com
+
+Handle name: harvest
+URL: getharvest.com
+
+Handle name: harvest
+URL: harveststatus.com
+
+Handle name: harvest
+URL: help.getharvest.com
+
+Handle name: harvest
+URL: getharvest.com/contact
+
+Handle name: harvest
+URL: support.forecastapp.com
+
+Handle name: robinhood
+URL: *.robinhood.com
+
+Handle name: robinhood
+URL: *.robinhood.net
+
+Handle name: robinhood
+URL: *.rhinternal.net
+
+Handle name: gitlab
+URL: customers.gitlab.com
+
+Handle name: gitlab
+URL: registry.gitlab.com
+
+Handle name: gitlab
+URL: gitlab.com
+
+Handle name: gitlab
+URL: about.gitlab.com
+
+Handle name: gitlab
+URL: dashboards.gitlab.com
+
+Handle name: gitlab
+URL: alerts.gitlab.com
+
+Handle name: gitlab
+URL: support.gitlab.com
+
+Handle name: gitlab
+URL: shop.gitlab.com
+
+Handle name: gitlab
+URL: forum.gitlab.com
+
+Handle name: gitlab
+URL: status.gitlab.com
+
+Handle name: gitlab
+URL: docs.gitlab.com
+
+Handle name: gitlab
+URL: partners.gitlab.com
+
+Handle name: gitlab
+URL: aptly.gitlab.com
+
+Handle name: gitlab
+URL: *.gitlab.net
+
+Handle name: gitlab
+URL: *.gitlap.com
+
+Handle name: gitlab
+URL: translate.gitlab.com
+
+Handle name: gitlab
+URL: federal-support.gitlab.com
+
+Handle name: gitlab
+URL: us-federal-gitlab.com
+
+Handle name: gitlab
+URL: ir.gitlab.com
+
+Handle name: greenhouse
+URL: app.greenhouse.io
+
+Handle name: greenhouse
+URL: boards.greenhouse.io
+
+Handle name: greenhouse
+URL: api.greenhouse.io
+
+Handle name: greenhouse
+URL: onboarding.greenhouse.io
+
+Handle name: greenhouse
+URL: support.greenhouse.io
+
+Handle name: greenhouse
+URL: jss.greenhouse.io
+
+Handle name: greenhouse
+URL: www.greenhouse.io
+
+Handle name: greenhouse
+URL: community.greenhouse.io
+
+Handle name: greenhouse
+URL: resources.greenhouse.io
+
+Handle name: greenhouse
+URL: store.greenhouse.io
+
+Handle name: uber
+URL: *.support-uber.com
+
+Handle name: uber
+URL: *.lioncityrentals.com.sg
+
+Handle name: uber
+URL: *.xchangeleasing.com
+
+Handle name: uber
+URL: *.uber.com.cn
+
+Handle name: uber
+URL: *.sobi.io
+
+Handle name: uber
+URL: uber.onelogin.com
+
+Handle name: uber
+URL: bizblog.uber.com
+
+Handle name: uber
+URL: newsroom.uber.com
+
+Handle name: uber
+URL: love.uber.com
+
+Handle name: uber
+URL: drive.uber.com
+
+Handle name: uber
+URL: eng.uber.com
+
+Handle name: uber
+URL: people.uber.com
+
+Handle name: uber
+URL: et.uber.com
+
+Handle name: uber
+URL: *.uberscoot.us
+
+Handle name: uber
+URL: *.ot.to
+
+Handle name: uber
+URL: *.ubertransit.io
+
+Handle name: uber
+URL: *.carnextdoor.com.au
+
+Handle name: adobe
+URL: marketplace.magento.com
+
+Handle name: adobe
+URL: magentocommerce.com
+
+Handle name: adobe
+URL: repo.magento.com
+
+Handle name: adobe
+URL: magento.com
+
+Handle name: adobe
+URL: u.magento.com
+
+Handle name: adobe
+URL: imagine.magento.com
+
+Handle name: adobe
+URL: magentolive.com
+
+Handle name: adobe
+URL: account.magento.com
+
+Handle name: adobe
+URL: accounts.magento.cloud
+
+Handle name: adobe
+URL: *.acrobat.com
+
+Handle name: adobe
+URL: *.adobe.io
+
+Handle name: adobe
+URL: *.adobeaemcloud.com
+
+Handle name: adobe
+URL: *.adobecqms.net
+
+Handle name: adobe
+URL: *.bizible.com
+
+Handle name: adobe
+URL: *.marketo.com
+
+Handle name: adobe
+URL: *.mixamo.com
+
+Handle name: adobe
+URL: *.omniture.com
+
+Handle name: adobe
+URL: *.phonegap.com
+
+Handle name: adobe
+URL: *.tubemogul.com
+
+Handle name: adobe
+URL: *.typekit.com
+
+Handle name: adobe
+URL: account.adobe.com
+
+Handle name: adobe
+URL: accounts.adobe.com
+
+Handle name: adobe
+URL: acrobat.adobe.com
+
+Handle name: adobe
+URL: acrobatoauth.adobe.com
+
+Handle name: adobe
+URL: adminconsole.adobe.com
+
+Handle name: adobe
+URL: adobeid.services.adobe.com
+
+Handle name: adobe
+URL: adobelogin.com
+
+Handle name: adobe
+URL: adobestock.com
+
+Handle name: adobe
+URL: assets.adobe.com
+
+Handle name: adobe
+URL: auth.services.adobe.com
+
+Handle name: adobe
+URL: behance.net
+
+Handle name: adobe
+URL: campaign.adobe.com
+
+Handle name: adobe
+URL: captivateprime.adobe.com
+
+Handle name: adobe
+URL: cbconnection.adobe.com
+
+Handle name: adobe
+URL: cloud.acrobat.com
+
+Handle name: adobe
+URL: coldfusion.adobe.com
+
+Handle name: adobe
+URL: commerce.adobe.com
+
+Handle name: adobe
+URL: community.adobe.com
+
+Handle name: adobe
+URL: create.adobe.com
+
+Handle name: adobe
+URL: creative.adobe.com
+
+Handle name: adobe
+URL: creativecloud.adobe.com
+
+Handle name: adobe
+URL: documentcloud.adobe.com
+
+Handle name: adobe
+URL: documents.adobe.com
+
+Handle name: adobe
+URL: edex.adobe.com
